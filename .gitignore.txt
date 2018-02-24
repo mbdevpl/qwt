@@ -1,0 +1,9 @@
+Makefile
+*.so
+*.so.?
+*.so.?.?
+*.so.?.?.?
+
+/build
+/*/obj/
+/*/moc/

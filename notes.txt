@@ -1,0 +1,2 @@
+-#QWT_CONFIG     += QwtMathML
++QWT_CONFIG     += QwtMathML
